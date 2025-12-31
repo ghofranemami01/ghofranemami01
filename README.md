@@ -74,5 +74,4 @@
   <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
 </p>
